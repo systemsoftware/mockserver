@@ -1,0 +1,11 @@
+{
+    "message": "Hello World",
+    "method":"<METHOD>",
+    "obj":"<RANDOM_OBJECT>",
+    "array":"<RANDOM_ARRAY>",
+    "number":"<RANDOM_NUMBER>",
+    "BODY":"<BODY>",
+    "headers":"<HEADERS>",
+    "url":"<URL>",
+    "bool":"<RANDOM_BOOLEAN>"
+}
